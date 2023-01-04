@@ -22,6 +22,10 @@ public class MainActivity extends AppCompatActivity {
         //
         //
         //
+        Log.i("TAG", "onCreate: This is the Fourth Commit and inside Slave");
+        //
+        //
+        //
         Log.i("TAG", "onCreate: This is the Fifth Commit");
     }
 }
